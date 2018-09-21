@@ -1,0 +1,13 @@
+body{
+    background-image: repeating-linear-gradient(#ffff99,yellow);
+}
+
+.oval{
+    width:140px;
+    height: 70px;
+    border: 1px solid blue;
+    color: white;
+    background-color:blue;
+    border-radius: 50%;
+    padding: 20px 20px;
+}
